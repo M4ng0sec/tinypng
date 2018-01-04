@@ -6,3 +6,5 @@
 申请地址为:https://tinypng.com/developers  
 
 每个key每个月可以免费压缩500张照片，可以用不同的邮箱申请多个key
+
+可以对 anroid  resource   图片进行压缩 ，减少 apk 大小
